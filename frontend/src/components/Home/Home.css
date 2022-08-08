@@ -1,0 +1,51 @@
+
+.booking{
+    display: flex;
+    flex-direction: column;
+    /* width: 50%; */
+    margin-top: 2%;
+    margin-left: 2.50%;
+    width: 35%;
+}
+
+.heading{
+    margin: 10px;
+    border-radius: 4px;
+    background-color: royalblue;
+}
+
+.bookingBox{
+    border: 2px solid grey;
+    /* width: 70%; */
+    margin: 10px;
+}
+
+.bookingDetails{
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    margin: auto;
+    
+}
+
+.bookingDetails input{
+    margin: 10px;
+}
+.btn{
+    width: 50%;
+    background-color: royalblue;
+    color: white;
+    border-radius: 4px;
+}
+input{
+    padding: 5px;
+}
+.change{
+    width: 30%;
+    margin: auto;
+    background-color: royalblue;
+    color: white;
+    border-radius: 4px;
+}
+
