@@ -17,7 +17,8 @@
 .Pdeatils{
     display: flex;
     justify-content:space-between;
-    width: 95%;
+    width: 99%;
+    margin: auto;
     
 }
 

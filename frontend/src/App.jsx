@@ -3,6 +3,7 @@ import './App.css';
 import Navbar from "./components/Navbar/Navbar";
 import Home from './components/Home/Home';
 import FlightsDetails from './components/FlightDetaills/FlightsDetails';
+import Login from './components/Login/Login';
 
 function App() {
   return (
@@ -11,10 +12,10 @@ function App() {
       <Navbar></Navbar>
       </div>
       <div className='mid'>
-      <Home></Home>
-      <FlightsDetails></FlightsDetails>
+      {/* <Home></Home> */}
+      {/* <FlightsDetails></FlightsDetails> */}
       </div>
-      
+      <Login></Login>
       
     </div>
   );
