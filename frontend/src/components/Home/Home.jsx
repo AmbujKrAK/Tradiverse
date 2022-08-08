@@ -15,6 +15,7 @@ function Home() {
             <button className='change'>Cross</button>
             <input type="text" name="" id="" placeholder='To'  />
             <input type="date" />
+            <div className='errorMsg'></div>
             <input type="submit" className='btn' />
             
         </form>

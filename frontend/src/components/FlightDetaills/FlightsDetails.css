@@ -1,0 +1,32 @@
+
+
+.flightsDetails{
+    width: 100%;
+    margin-top: 3%;
+    border: 2px solid grey;
+    height: 150px;
+}
+
+.planeCodename{
+    border: 2px solid grey;
+    background-color: rgb(184, 181, 181);
+    margin: 0px;
+    padding: 5px;
+}
+
+.Pdeatils{
+    display: flex;
+    justify-content:space-between;
+    width: 95%;
+    
+}
+
+.planeName{
+    text-align: start;
+}
+
+button{
+    background-color: royalblue;
+    color: white;
+    border-radius: 4px;
+}
